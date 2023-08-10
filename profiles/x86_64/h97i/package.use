@@ -18,3 +18,4 @@ app-misc/mime-types nginx
 net-fs/nfs-utils nfsv41
 www-servers/nginx threads
 net-dns/dnsmasq -dhcp auth-dns dnssec
+dev-vcs/git cgi
