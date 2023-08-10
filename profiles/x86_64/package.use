@@ -1,0 +1,7 @@
+net-misc/curl adns
+net-libs/libpcap netlink
+sys-fs/lvm2 -lvm -thin
+app-admin/sudo -sendmail
+virtual/linux-sources firmware
+sys-kernel/linux-firmware compress-zstd
+sys-apps/systemd cryptsetup

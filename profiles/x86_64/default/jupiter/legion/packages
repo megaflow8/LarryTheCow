@@ -1,0 +1,8 @@
+*app-editors/gedit
+*app-text/evince
+*gnome-extra/gnome-system-monitor
+*media-video/totem
+*sys-power/thermald
+*x11-drivers/nvidia-drivers
+*sys-firmware/intel-microcode
+*sys-power/switcheroo-control

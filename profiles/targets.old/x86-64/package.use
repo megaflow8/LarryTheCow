@@ -1,0 +1,30 @@
+net-misc/curl adns
+net-libs/libpcap netlink
+dev-libs/libdbusmenu -gtk gtk3
+gnome-extra/gnome-software -firmware
+net-misc/networkmanager -wext
+media-libs/libsndfile minimal
+sys-fs/lvm2 -lvm -thin
+net-dialup/ppp -gtk
+dev-libs/appstream-glib stemmer fonts
+media-video/pipewire echo-cancel extra gsettings pipewire-alsa sound-server
+media-plugins/gst-plugins-meta -a52 -cdda -dts -flac -mp3 -mpeg -vorbis
+app-admin/sudo -sendmail
+x11-drivers/nvidia-drivers -tools
+virtual/linux-sources firmware
+sys-kernel/linux-firmware compress-zstd
+media-fonts/noto -extra
+media-fonts/fonts-meta -emoji -latin
+sys-apps/systemd cryptsetup homed tpm
+sys-auth/pambase homed
+dev-lang/lua -deprecated
+app-admin/eclean-kernel zstd
+gnome-base/gvfs google -http
+app-text/ghostscript-gpl -X cups
+net-print/cups -X -usb
+net-print/cups-filters -exif -foomatic -jpeg -pdf -png -postscript -tiff
+media-video/ffmpeg nvenc vulkan
+media-gfx/fontforge -X
+
+media-libs/mesa video_cards_radeonsi video_cards_radeon
+x11-libs/libdrm video_cards_radeon

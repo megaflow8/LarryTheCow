@@ -1,0 +1,17 @@
+*app-admin/sudo
+*app-eselect/eselect-repository
+*app-portage/elogv
+*app-portage/flaggie
+*app-portage/gentoolkit
+*app-shells/bash-completion
+*net-firewall/ufw
+*sec-policy/apparmor-profiles
+*sys-apps/apparmor
+*sys-apps/apparmor-utils
+*sys-auth/rtkit
+*sys-fs/btrfs-progs
+*sys-fs/btrfsmaintenance
+*sys-fs/dosfstools
+*sys-process/audit
+*sys-apps/pciutils
+*app-admin/eclean-kernel

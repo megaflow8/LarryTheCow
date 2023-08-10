@@ -1,0 +1,2 @@
+USE="-dvd -cdr -gtk2 -qt5 -cups -vulkan -sysprof -keyring -cdda flatpak pipewire dist-kernel theora taglib archive libass aac x264 ffmpeg lame dbus-broker"
+VIDEO_CARDS="amdgpu -fbdev intel -nouveau -radeon -radeonsi -vesa -dummy"

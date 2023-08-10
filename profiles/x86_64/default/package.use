@@ -1,0 +1,2 @@
+sys-apps/systemd cryptsetup homed tpm
+sys-auth/pambase homed

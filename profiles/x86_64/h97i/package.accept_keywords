@@ -1,0 +1,6 @@
+app-admin/cockpit
+sys-apps/tuned
+dev-python/python-linux-procfs
+app-admin/cockpit-machines
+app-emulation/libvirt-dbus
+app-metrics/pcp

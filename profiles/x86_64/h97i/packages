@@ -1,0 +1,11 @@
+*media-tv/plex-media-server
+*sys-kernel/gentoo-sources
+*sys-firmware/intel-microcode
+*net-fs/nfs-utils
+*www-servers/lighttpd
+*sys-process/htop
+*app-admin/cockpit
+*net-misc/networkmanager
+*sys-apps/ethtool
+*sys-block/parted
+*net-dns/dnsmasq

@@ -1,0 +1,20 @@
+sys-process/htop hwloc lm-sensors
+www-servers/lighttpd dbi -lua -php nss sqlite
+net-libs/libssh server
+net-misc/networkmanager -wext -wifi -modemmanager -ppp
+net-nds/openldap tcpd
+net-dns/dnsmasq dbus script
+dev-lang/php cgi cli fpm ftp threads
+app-eselect/eselect-php fpm
+app-admin/cockpit tuned udisks
+sys-fs/udisks lvm
+sys-libs/libblockdev lvm
+sys-kernel/gentoo-kernel modules-sign
+app-admin/sudo -sendmail
+sys-kernel/linux-firmware compress-zstd
+sys-apps/systemd cryptsetup
+sys-firmware/intel-microcode hostonly initramfs
+app-misc/mime-types nginx
+net-fs/nfs-utils nfsv41
+www-servers/nginx threads
+net-dns/dnsmasq -dhcp auth-dns dnssec

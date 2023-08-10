@@ -1,0 +1,20 @@
+media-libs/mesa video_cards_radeonsi video_cards_radeon
+x11-libs/libdrm video_cards_radeon
+
+net-misc/curl adns
+net-libs/libpcap netlink
+dev-libs/libdbusmenu -gtk gtk3
+gnome-extra/gnome-software -firmware
+net-misc/networkmanager -wext resolvconf
+media-libs/libsndfile minimal
+sys-fs/lvm2 -lvm -thin
+net-dialup/ppp -gtk
+dev-libs/appstream-glib stemmer fonts
+media-video/pipewire echo-cancel extra gsettings pipewire-alsa sound-server
+media-plugins/gst-plugins-meta -a52 -dts -flac -mp3 -mpeg -vorbis
+x11-drivers/nvidia-drivers -tools
+media-fonts/noto -extra
+media-fonts/fonts-meta -emoji -latin
+dev-lang/lua -deprecated
+gnome-base/gvfs google -http
+net-wireless/bluez btpclient
