@@ -1,7 +1,7 @@
 sys-process/htop hwloc lm-sensors
 www-servers/lighttpd dbi -lua -php nss sqlite
 net-libs/libssh server
-net-misc/networkmanager -wext -wifi -modemmanager -ppp
+net-misc/networkmanager -wext -wifi -modemmanager -ppp -nss
 net-nds/openldap tcpd
 net-dns/dnsmasq dbus script
 dev-lang/php cgi cli fpm ftp threads
@@ -19,3 +19,4 @@ net-fs/nfs-utils nfsv41
 www-servers/nginx threads
 net-dns/dnsmasq -dhcp auth-dns dnssec
 dev-vcs/git cgi
+dev-libs/nss cacert
