@@ -15,3 +15,5 @@
 *www-client/firefox-bin
 *sys-kernel/linux-firmware
 *media-fonts/liberation-fonts
+*media-sound/alsa-utils
+*x11-themes/adw-gtk3

@@ -6,7 +6,7 @@ net-nds/openldap tcpd
 net-dns/dnsmasq dbus script
 dev-lang/php cgi cli fpm ftp threads
 app-eselect/eselect-php fpm
-app-admin/cockpit tuned udisks
+app-admin/cockpit tuned udisks pcp
 sys-fs/udisks lvm
 sys-libs/libblockdev lvm
 sys-kernel/gentoo-kernel modules-sign

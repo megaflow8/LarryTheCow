@@ -1,1 +1,1 @@
-USE="${USE} gnutls -ktls audit"
+USE="${USE} gnutls ktls audit"

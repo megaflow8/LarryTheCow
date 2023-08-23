@@ -15,3 +15,4 @@
 *sys-process/audit
 *sys-apps/pciutils
 *app-admin/eclean-kernel
+*app-admin/gentoo_update

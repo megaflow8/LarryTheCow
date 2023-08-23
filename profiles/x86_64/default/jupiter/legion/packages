@@ -6,3 +6,4 @@
 *x11-drivers/nvidia-drivers
 *sys-firmware/intel-microcode
 *sys-power/switcheroo-control
+*net-misc/wakeonlan

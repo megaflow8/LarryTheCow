@@ -9,3 +9,9 @@ PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log qa"
 
 ACCEPT_LICENSE="* -@EULA"
+
+COMMON_FLAGS="-mtune=intel -march=x86-64-v3 -O3 -pipe -fomit-frame-pointer"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
