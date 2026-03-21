@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Sub-meta package for the applications of GNOME
+EAPI=8
+HOMEPAGE=https://www.gnome.org/
+IUSE=flatpak
+KEYWORDS=~amd64
+LICENSE=metapackage
+RDEPEND=>=gnome-base/gnome-core-libs-50.0 sys-apps/baobab app-arch/file-roller gnome-extra/gnome-calculator gnome-extra/gnome-calendar gnome-extra/gnome-weather gnome-extra/gnome-logs gnome-base/dconf-editor gnome-extra/gnome-tweaks x11-themes/MoreWaita x11-themes/adw-gtk3 app-arch/unzip gnome-extra/gnome-shell-extension-gsconnect gnome-extra/gnome-shell-extension-appindicator flatpak? ( gnome-extra/gnome-software[flatpak] )
+SLOT=3.0
+_md5_=cbd54dc53939cb6db940e7f1a81ad7c1

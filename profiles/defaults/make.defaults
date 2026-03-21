@@ -1,0 +1,9 @@
+USE="${USE}-gpm -dvd -cdda -qt6 -man -cdr -sysprof -gui -cups -samba -ibus -ipv6 -cdr -gnome-keyring -vulkan -bluetooth"
+USE="${USE} modules-compress modules-sign pgo lto flatpak modules-compress v4l homed audit apparmor vaapi lm-sensors ffmpeg dist-kernel"
+VIDEO_CARDS="-* nvidia amdgpu radeon radeonsi"
+
+ACCEPT_LICENSE="* -@EULA"
+
+LC_MESSAGES=C.UTF-8
+LINGUAS="-* nl"
+L10N="-* nl"

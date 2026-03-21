@@ -1,0 +1,43 @@
+app-admin/conky bundled-toluapp wifi
+app-i18n/ibus -emoji gtk4 -gui
+
+dev-lang/spidermonkey clang
+dev-libs/libdbusmenu -gtk
+
+gnome-base/gvfs google archive nfs
+gnome-base/nautilus -previewer
+gnome-base/gdm -X
+gnome-base/gnome-meta extras
+gnome-base/gnome-meta -video_cards_nvidia
+gnome-extra/gnome-software -firmware
+
+# move llvm-core/clang-runtime llvm-runtimes/clang-runtime
+llvm-runtimes/clang-runtime sanitize
+
+media-libs/libsndfile minimal
+
+media-video/pipewire pipewire-alsa sound-server extra
+
+media-libs/gd fontconfig
+
+net-dialup/ppp -gtk
+
+net-print/cups -X -usb
+
+net-wireless/gnome-bluetooth sendto
+
+net-wireless/wpa_supplicant -gui
+
+net-misc/networkmanager -gtk-doc
+
+sys-apps/systemd boot
+sys-apps/kmod pkcs7
+sys-apps/hwloc -video_cards_nvidia
+sys-auth/polkit -gtk
+
+sys-kernel/gentoo-kernel -debug
+sys-kernel/installkernel dracut
+
+x11-drivers/nvidia-drivers -tools
+
+app-admin/sudo -sendmail
