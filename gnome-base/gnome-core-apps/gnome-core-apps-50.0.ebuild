@@ -37,7 +37,7 @@ RDEPEND="
 	>=media-video/showtime-${PV}
 	>=gui-apps/gnome-console-${PV}
 
-	>=x11-themes/adwaita-icon-theme-${PV}
+	x11-themes/adwaita-icon-theme
 	>=x11-themes/sound-theme-freedesktop-0.8
 	bluetooth? ( >=net-wireless/gnome-bluetooth-47.1 )
 	>=gnome-base/gnome-menus-3.38.1

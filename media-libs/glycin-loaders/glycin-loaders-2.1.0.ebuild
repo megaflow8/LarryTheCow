@@ -91,10 +91,9 @@ src_configure() {
 		-Dglycin-loaders=true
 		-Dloaders="${formats_s// /,}"
 		-Dtests=$(usex test true false)
-		-Dlibglycin=true
-		-Dlibglycin-gtk4=true
-		-Dglycin-thumbnailer=true
-		-Dvapi=false
+		-Dlibglycin=false
+		-Dlibglycin-gtk4=false
+		-Dglycin-thumbnailer=false
 
 		# TODO: figure out why it fails
 		# https://gitlab.gnome.org/GNOME/glycin/-/issues/167

@@ -62,6 +62,7 @@ DEPEND="
 		dev-python/pygobject:3[${PYTHON_USEDEP}]
 	')
 	media-libs/libglvnd[X]
+	media-libs/glycin:2
 "
 # Runtime-only deps are probably incomplete and approximate.
 # Introspection deps generated from inspection of the output of:
